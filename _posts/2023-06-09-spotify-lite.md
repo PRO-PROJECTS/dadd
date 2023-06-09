@@ -33,7 +33,7 @@ Note: Note:- Download and Very High Audio Quality doesn't work that is server si
 
 ## Download Mod Apk 📩
 
-<p align="center"><a href="https://tinyurl.com/2cspdba7"><img src="https://img.shields.io/badge/Download-Now-black?&style=for-the-badge&logo=download" width="220" height="70.45"></a></p>
+<p align="center"><a href="https://tinyurl.com/2b4plfxu"><img src="https://img.shields.io/badge/Download-Now-black?&style=for-the-badge&logo=download" width="220" height="70.45"></a></p>
 
 
 ## How To Open Link??
