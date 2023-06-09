@@ -31,3 +31,9 @@ Note: Maybe Didn't Work On Some Devices Must Check.
 
 ## Download Mod Version 📩
 
+
+<p align="center"><a href="https://tinyurl.com/24bloeo8"><img src="https://img.shields.io/badge/Download-Now-black?&style=for-the-badge&logo=download" width="220" height="70.45"></a></p>
+
+## How To Open Our Links? Must Watch Before Opening ⭐
+
+<p align="center"><a href="https://t.me/HowToRedirect/5"><img src="https://img.shields.io/badge/HowToOpen-Link-black?&style=for-the-badge&logo=telegram" width="220" height="70.45"></a></p>
