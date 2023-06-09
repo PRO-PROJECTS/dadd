@@ -1,14 +1,14 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: The Mods Zone
+title: TheModsZone | A Modding Site, Here You Can Get Lots of modified / Mods Apps.
+description: Modified Apps Provided By our telegam Channel
+  @TheModsZone.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - modding
+  - mods
+  - modified 
+  - app
+  - mod
 show_hero: true
 menu:
   - title: Home
@@ -17,9 +17,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+
+email: itsunknown122@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -29,7 +28,7 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: ITZ-ZAID
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
