@@ -19,28 +19,8 @@
           </a>
         {% endif %}
         {% if author.facebook_username %}
-          <a href="https://www.facebook.com/{{ author.facebook_username }}" title="Facebook">
-            <svg><use xlink:href="#icon-facebook"></use></svg>
-          </a>
-        {% endif %}
-        {% if author.twitter_username %}
-          <a href="https://twitter.com/{{ author.twitter_username }}" title="Twitter">
-            <svg><use xlink:href="#icon-twitter"></use></svg>
-          </a>
-        {% endif %}
-        {% if author.medium_username %}
-          <a href="https://medium.com/@{{ author.medium_username }}" title="Medium">
-            <svg><use xlink:href="#icon-medium"></use></svg>
-          </a>
-        {% endif %}
-        {% if author.instagram_username %}
-          <a href="https://www.instagram.com/{{ author.instagram_username }}" title="Instagram">
-            <svg><use xlink:href="#icon-instagram"></use></svg>
-          </a>
-        {% endif %}
-        {% if author.linkedin_username %}
-          <a href="https://www.linkedin.com/in/{{ author.linkedin_username }}" title="LinkedIn">
-            <svg><use xlink:href="#icon-linkedin"></use></svg>
+          <a href="https://t.me/{{ author.facebook_username }}" title="Telegram">
+            <svg><use xlink:href="#icon-telegram"></use></svg>
           </a>
         {% endif %}
       </p>
@@ -53,18 +33,6 @@
   {% endif %}
   {% if author.facebook_username %}
       {% assign author_urls = author_urls | append: '"https://www.facebook.com/' | append: author.facebook_username | append: '",' %}
-  {% endif %}
-  {% if author.twitter_username %}
-      {% assign author_urls = author_urls | append: '"https://twitter.com/' | append: author.twitter_username | append: '",' %}
-  {% endif %}
-  {% if author.medium_username %}
-      {% assign author_urls = author_urls | append: '"https://medium.com/@' | append: author.medium_username | append: '",' %}
-  {% endif %}
-  {% if author.instagram_username %}
-      {% assign author_urls = author_urls | append: '"https://www.instagram.com/' | append: author.instagram_username | append: '",' %}
-  {% endif %}
-  {% if author.linkedin_username %}
-      {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
   {% endif %}
 
   <script type="application/ld+json">
