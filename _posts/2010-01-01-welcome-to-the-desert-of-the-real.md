@@ -6,8 +6,13 @@ subtitle: 'Follow Us On Telegram For Regular Updates.'
 description: >-
   An Best modding & Mods Website For Modifying Apps & Make It Free For Everyone.
 image: >-
-  https://justpaste.it/img/78d64b0aa58430adacf7e0d0e2ec1079.jpg: >-
-  https://justpaste.it/img/78d64b0aa58430adacf7e0d0e2ec1079.jpg
+
+https://raw.githubusercontent.com/ITS-ZAID/template/master/assets/img/uploads/themodszone.jpg
+
+optimized_image: >- 
+
+https://raw.githubusercontent.com/ITS-ZAID/template/master/assets/img/uploads/themodszone.jpg
+
 category: blog
 tags:
   - welcome
