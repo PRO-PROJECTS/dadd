@@ -29,3 +29,9 @@ Spotify is a digital music service that gives you access to millions of songs..
 - ▫️ Premium Features Unlocked
 
 Note: Note:- Download and Very High Audio Quality doesn't work that is server sided.
+
+## Download 📩
+- [Download For Arm64-v8a](https://tinyurl.com/2cspdba7)
+- [Download For Arm-v7a](https://tinyurl.com/22ou7xet)
+
+- [How To Open Link? Must Watch](https://t.me/HowToRedirect/5)
