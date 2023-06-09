@@ -6,7 +6,7 @@ subtitle: Gold Membership Unlocked.
 description: Truecaller's mission is to build trust everywhere by making communication safe and efficient!.
 
 image: https://justpaste.it/img/a5fd42b31e6008963e3ddd01b95c0b6b.jpg
-optimized_image: https://justpaste.it/img/549a7bde7ac82b73b46fd5c5a3b44f06.jpg
+optimized_image: https://justpaste.it/img/a5fd42b31e6008963e3ddd01b95c0b6b.jpg
 category: call
 tags:
   - truecaller
