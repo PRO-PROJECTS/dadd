@@ -16,7 +16,7 @@ author: mranderson
 paginate: true
 ---
 
-### About HMA 
+### About Crunchyroll
 Watch the best anime online and legally stream simulcasts including Dragon Ball Super, Attack on Titan, Naruto Shippuden, My Hero Academia & More.
 
 ### Basic Info
