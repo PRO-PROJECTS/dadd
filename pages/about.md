@@ -3,11 +3,11 @@ layout: page
 menu: false
 date: '2020-02-27 01:53:59'
 title: About
-description: A Modding Community Of Telegram.
+description: A Adults Content provider Community Of Telegram.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="https://justpaste.it/img/5eb6911a8f0fd387bb3c28bb7c1762c5.jpg" alt="@TheModsZone" width="200">
+<img class="img-rounded" src="https://justpaste.it/img/1bdcdecb9094dae4b4aa7ef9c94f1035.jpg" alt="@Adultsfile" width="200">
 
 # About
 
@@ -15,15 +15,8 @@ permalink: /about/
 ⭕️𝗡𝗼 𝗘𝗻𝘁𝗿𝘆 𝗔𝗳𝘁𝗲𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝘁𝘀 𝗗𝗲𝗹𝗲𝘁𝗲𝗱
 ═══════════════════════
 
-💎 Premium unlocked apps for free
- ├ Ott, Nétflïx, ált Bælaji, úllü, VPN Mod
- ├ 🧩Phub, Bzers, Mods
- ├ 👨‍💻Unique hacking apps & more
- ├ 🎖#1 #best #top Mods Channel 
-♦ Adult Games & Apps
-
 ⭕️Private Channel Link:-
 
-[TheModsZone](https://t.me/TheModsZone)
+[Adultsfile](https://t.me/Adultsfile)
 
 ONLY LIMITED ENTRIES 😱.
