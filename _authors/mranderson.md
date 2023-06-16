@@ -1,10 +1,10 @@
 ---
 layout: author
-photo: https://justpaste.it/img/5eb6911a8f0fd387bb3c28bb7c1762c5.jpg
+photo: https://justpaste.it/img/1bdcdecb9094dae4b4aa7ef9c94f1035.jpg
 name: mranderson
-display_name: TheModsZone
+display_name: Adultsfile
 position: App Explore
-bio: Do You Know?? About Me? Haha! Join Telegram @TheModsZone.
+bio: Do You Know?? About Me? Haha! Join Telegram @Adultsfile.
 github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
